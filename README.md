@@ -384,9 +384,93 @@ Programs and Features, select the program you want to uninstall, and click "Unin
 </ul>
 
 
-145151
+<h3>Check for Malware</h3>
+<p>Regularly scanning for malware is crucial for maintaining system performance and security.</p>
+
+<ul>
+    <li>
+        <strong>Windows Security Scan:</strong> 
+        Use Windows Security to perform a full system scan. Go to Settings, then Update & Security, and select Windows Security. 
+        Click on Virus & threat protection. For more detailed information, check out my other repository on 
+        <a href="https://github.com/ByteBanterDK/WinFullScan">Windows Security Scan</a>.
+    </li>
+</ul>
+<img src="https://camo.githubusercontent.com/a7dcc2b008808918904e4824370571828c82683ef79f7c2af72bf71ba4376c52/68747470733a2f2f692e696d6775722e636f6d2f52424148666a512e706e67">
+
+<ul>
+    <li>
+        <strong>Malicious Software Removal Tool (MRT):</strong> 
+        Run MRT by searching for "MRT" in the Start menu and following the prompts to scan for malware. 
+        For more information, visit my GitHub repository on <a href="https://github.com/ByteBanterDK/SecureScanM">MRT</a>.
+    </li>
+</ul>
+<img src="https://github.com/user-attachments/assets/c5befb1a-6d86-4c16-a211-35545cfbd4f4">
+<ul>
+    <li>
+        <strong>Malwarebytes:</strong> 
+        Install and run Malwarebytes to perform a thorough scan for malware and other threats.
+    </li>
+</ul>
+<img src="https://i.imgur.com/MouQucS.png">
+
+<ul>
+    <li>
+        <strong>Additional Checks:</strong> 
+        Consider using tools like AdwCleaner to remove adware and potentially unwanted programmes (PUPs).
+    </li>
+</ul>
+<img src=https://github.com/user-attachments/assets/9a66c1f0-e69d-4deb-bdd0-e2e0c90bdc0e">
 
 
+<h3>Windows Memory Diagnostic</h3>
+<p>The Windows Memory Diagnostic tool helps identify memory-related issues that could affect system performance.</p>
+<ul>
+    <li><strong>How to Use:</strong> Search for "Windows Memory Diagnostic" 
+<img src="https://github.com/user-attachments/assets/25fdd7c2-cba9-4d67-a366-fdfae75e320f">
+in the Start menu, select "Restart now and check for problems," and follow the prompts to check your system's RAM for errors.</li>
+<img src="https://github.com/user-attachments/assets/95ff836c-dc96-488a-8d08-79fac121bd34">
+    
+<p>When you restart your computer, the Windows Memory Diagnostic tool will run a series of tests on your system's RAM. It will check for any errors or issues that could be causing performance problems. The results will be displayed after the tests are complete, allowing you to take appropriate action if any issues are found.</p>
+
+<img src="">
+
+<h3>System Restore Point Management</h3>
+<p>Managing system restore points can help free up disk space and ensure that your system is running efficiently.</p>
+
+<ul>
+    <li>
+        <strong>How to Manage:</strong> 
+        Go to Control Panel, then System.
+<img src="https://github.com/user-attachments/assets/9c06adc2-eca7-41c4-a00c-319d2f28fa69"><img src="https://github.com/user-attachments/assets/579948c5-0a56-44d7-8894-250371fa44b9">
+select System Protection. Here, you can create, delete, or configure restore points.
+<img src="https://github.com/user-attachments/assets/4e5166a6-0065-454d-b40b-f2e73db97d24"><img src="https://github.com/user-attachments/assets/3aba71ef-134d-4dc3-80df-ca583f872c1d">
+    </li>
+</ul>
+
+<p>By managing your system restore points, you can remove older restore points that are no longer needed, which can help free up valuable disk space. Additionally, regularly creating restore points before making significant changes to your system can provide a safety net, allowing you to revert to a previous state if something goes wrong.</p>
+
+
+<h3>Advanced SystemCare</h3>
+<p>Advanced SystemCare is a comprehensive system optimisation tool that can help improve performance and clean up your PC.</p>
+
+<ul>
+    <li>
+        <strong>Features:</strong> 
+        It offers features like junk file cleanup, registry repair, privacy protection, and system optimisation. 
+        Additionally, it includes an AI mode that intelligently scans your system for issues and recommends optimisations based on your usage patterns.
+    </li>
+</ul>
+<ul>
+    <li>
+        <strong>How to Use:</strong> 
+        Download and install Advanced SystemCare from the official website, then run the programme and follow the prompts to optimise your system. 
+<img src="https://github.com/user-attachments/assets/fa3e9f4d-88d7-45d6-8c9a-2fd6fcd8f5c8">
+You can choose between AI mode for automated scanning and manual scanning mode for a more hands-on approach.
+<img src="https://github.com/user-attachments/assets/b101528b-bdc8-451c-be59-f4e881a2a626">
+    </li>
+    <li>
+    </li>
+</ul>
 
 
 
