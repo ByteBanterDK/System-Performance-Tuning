@@ -373,8 +373,8 @@
 
 <ul>
     <li><strong>How to Clear Browsing Data in Microsoft Edge:</strong>
-        <ol>
-            <li>Open Microsoft Edge and click on the three dots in the upper right corner.</li>
+
+  <li>Open Microsoft Edge and click on the three dots in the upper right corner.</li>
             <li>Select <strong>Settings</strong>.</li>
             <div>
                 <img src="https://github.com/user-attachments/assets/9182f22b-1aad-4c4d-8b0d-a122f22ba060" alt="Settings">
@@ -391,11 +391,11 @@
             <div>
                 <img src="https://github.com/user-attachments/assets/416db57e-b363-4afa-afd3-dec419836e21" alt="Data Types">
             </div>
-            <li>Click on <strong>Clear now</strong>.</li>
+         Click on <strong>Clear now</strong>.</li>
             <div>
                 <img src="https://github.com/user-attachments/assets/18e8c294-c1fa-4e95-8ecd-99678fe5c389" alt="Clear Now">
             </div>
-        </ol>
+      
     </li>
 </ul>
 
