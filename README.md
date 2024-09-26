@@ -220,6 +220,42 @@
 </ul>
 <img src="https://i.imgur.com/80Q4wbe.png">
 
+<h3>OCCT (OverClock Checking Tool)</h3>
+<p>OCCT is a powerful monitoring tool that provides detailed information about your system's performance and stability. It is particularly useful for users who want to ensure their system is running optimally.</p>
+
+<h4>Downloading OCCT</h4>
+<ul>
+    <li>Visit the official OCCT website:
+<img src="https://github.com/user-attachments/assets/18585299-99c3-4b9a-963f-7129a0be46b7">
+    <li>Click on the "Discover NOW" button on the homepage.</li>
+<img src="https://github.com/user-attachments/assets/fc6746a3-36c2-4bde-a1ee-5d6fd5fb3102">
+    <li>A new page will appear with four options: Personal, Pro, Enterprise, and Enterprise+. Select "Personal."</li>
+<img src="https://github.com/user-attachments/assets/ade997a7-cd38-4ed3-bd5c-107951a7f656">
+    <li>Click on the "Download" button that appears on the new page, indicated by a download logo with an arrow.</li>
+<img src="https://github.com/user-attachments/assets/92b0bdcb-dbc5-44f1-abf7-17ca2508d08a"
+    <li>Run the installer and follow the on-screen instructions to complete the installation.</li>
+</ul>
+
+<h4>Features of OCCT</h4>
+<ul>
+    <li><strong>Stability Test:</strong> OCCT allows you to run stress tests on your CPU, GPU, and power supply to ensure they can handle high loads without crashing.</li>
+<img src="https://github.com/user-attachments/assets/6acc0dc9-c115-4af1-ae3a-c2d6e3e90015">
+    <li><strong>Stability Certification Benchmark:</strong> After running tests, OCCT provides a certification report that indicates the stability of your system under stress.</li>
+<img src="https://github.com/user-attachments/assets/d7c6ef93-a68d-402a-8c4c-196eb32b5461">
+    <li><strong>Benchmarking:</strong> OCCT includes benchmarking features that allow you to compare your system's performance against previous results or other systems.</li>
+<img src="https://github.com/user-attachments/assets/7667438e-9ff7-4d25-b729-1dbc6b982e63">
+    <li><strong>Monitoring:</strong> OCCT continuously monitors system parameters such as CPU temperature, voltage, and usage, providing real-time feedback on system health.</li>
+<img src="https://github.com/user-attachments/assets/8bf8f1c8-bc64-48c1-b2c5-fc2e926d0994">
+    <li><strong>System Info:</strong> The tool displays detailed information about your hardware, including CPU, GPU, RAM, and motherboard specifications.</li>
+<img src="https://github.com/user-attachments/assets/8b5b4ac9-25af-4435-a298-38aa96505dcd">
+    <li><strong>Settings Page:</strong> OCCT offers a customisable settings page where you can adjust test parameters, monitoring options, and alerts based on your preferences.</li>
+</ul>
+<img src="https://github.com/user-attachments/assets/c06e9c60-6d87-45bd-a29f-0e17c6fb9b28">
+
+<h4>Using OCCT</h4>
+<p>Once installed, launch OCCT and select the type of test you want to perform. You can choose from CPU, GPU, or power supply tests. After selecting a test, click "Start" to begin monitoring your system's performance. Review the results and make any necessary adjustments to optimise your system.</p>
+
+
 <h2>Search CCleaner</h2>
 <ul>
     <li><strong>Frees Up Space:</strong> Removes unnecessary files and data.</li>
