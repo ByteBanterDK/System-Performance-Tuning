@@ -272,6 +272,167 @@
 </ul>
 <img src="https://i.imgur.com/MouQucS.png">
 
+<h2>Additional Performance Optimization Techniques</h2>
+
+<h3>Uninstall Unused Programs</h3>
+<p>Removing programs that you no longer use can free up valuable disk space and system resources.</p>
+<ul>
+    <li><strong>How to Uninstall:</strong> Go to Control Panel 
+<img src="https://github.com/user-attachments/assets/cb1b771d-9b8f-4538-8ad6-9dcef322fd50">
+Click on "Programs"
+       <img src="https://github.com/user-attachments/assets/d7496b89-b58a-4c17-b18b-b89a91207aa6">
+Programs and Features, select the program you want to uninstall, and click "Uninstall."</li>
+<img src="https://github.com/user-attachments/assets/cf340025-8478-4671-94e5-d476a65ced2d">
+</ul>
+
+<h3>Adjust Virtual Memory Settings</h3>
+<p>Modifying the paging file size can optimise virtual memory usage, which is especially beneficial for systems with limited RAM.</p>
+<ul>
+    <li><strong>Reasons to Choose a Custom Size:</strong>
+        <ul>
+            <li><strong>Performance Optimisation:</strong> Prevents frequent resizing of the paging file, enhancing system performance.</li>
+            <li><strong>Stability:</strong> Ensures that applications have enough virtual memory available, reducing the risk of crashes.</li>
+            <li><strong>Control:</strong> Allows you to allocate more virtual memory based on your specific needs and usage patterns.</li>
+        </ul>
+    </li>
+    <li><strong>Recommended Custom Sizes:</strong>
+        <ul>
+            <li><strong>1 GB of RAM:</strong> Set to 1.5 GB to 2 GB (1536 MB to 2048 MB)</li>
+            <li><strong>4 GB of RAM:</strong> Set to 6 GB to 8 GB (6144 MB to 8192 MB)</li>
+            <li><strong>8 GB of RAM:</strong> Set to 12 GB to 16 GB (12288 MB to 16384 MB)</li>
+            <li><strong>16 GB of RAM or more:</strong> 16 GB to 32 GB (16384 MB to 32768 MB)</li>
+        </ul>
+    </li>
+    <li><strong>How to Adjust:</strong> Go to Control Panel.
+        <img src="https://github.com/user-attachments/assets/cb1b771d-9b8f-4538-8ad6-9dcef322fd50" alt="Control Panel">
+        Then click on System, and select Advanced system settings.
+        <img src="https://github.com/user-attachments/assets/004af6c3-4047-45b8-b3d5-ac81fcb5d725" alt="System Settings">
+        <img src="https://github.com/user-attachments/assets/f714296e-5986-4cf8-b983-cacb275c24ef" alt="Advanced System Settings">
+        Under Performance Settings, go to the Advanced tab.
+        <img src="https://github.com/user-attachments/assets/224a1054-b56b-4625-a5fc-5c27693eeb90" alt="Performance Settings">
+        <img src="https://github.com/user-attachments/assets/f6d94fd7-3ea3-4b99-be5c-12f1e6f330ee">
+        Click on Virtual memory. Uncheck "Automatically manage paging file size for all drives," select your drive, and set a custom size.
+    </li>
+</ul>
+<img src="https://github.com/user-attachments/assets/99b31012-4029-4160-baf3-e92fe829c1c8">
+
+<h3>Browser Optimisation</h3>
+<p>Optimising your web browser can improve performance and reduce resource usage. Here are some tips specifically for Microsoft Edge:</p>
+
+<ul>
+    <li><strong>Improved Performance:</strong> Over time, cached data can accumulate and slow down your browser. Clearing it can help speed up loading times and improve overall responsiveness.</li>
+    <li><strong>Enhanced Privacy:</strong> Clearing cookies and browsing history helps protect your personal information and prevents tracking by websites.</li>
+    <li><strong>Free Up Space:</strong> Regularly clearing cached data can free up storage space on your device, which is especially beneficial for devices with limited storage capacity.</li>
+    <li><strong>Resolve Issues:</strong> If you encounter problems with websites, clearing the cache can often resolve issues related to outdated or corrupted files.</li>
+</ul>
+
+<p>This process can be performed on various platforms, including:</p>
+<ul>
+    <li>Google Chrome</li>
+    <li>Mozilla Firefox</li>
+    <li>Brave</li>
+    <li>DuckDuckGo</li>
+    <li>Microsoft Edge</li>
+    <li>Opera GX</li>
+</ul>
+
+<p>Here are specific steps for clearing browsing data in Microsoft Edge:</p>
+
+<ul>
+    <li><strong>How to Clear Browsing Data in Microsoft Edge:</strong>
+        <ol>
+            <li>Open Microsoft Edge and click on the three dots in the upper right corner.</li>
+<li>Select <strong>Settings</strong>.</li>
+<img src="https://github.com/user-attachments/assets/9182f22b-1aad-4c4d-8b0d-a122f22ba060">
+            <li>In the left sidebar, click on <strong>Privacy, search, and services</strong>.</li>
+<img src="https://github.com/user-attachments/assets/825a1a24-8734-466d-be62-c5ca8fbaf0f1">
+ <li>Scroll down to the <strong>Clear browsing data</strong> section and click on <strong>Choose what to clear</strong>.</li>
+<img src="https://github.com/user-attachments/assets/2f6b5824-632d-49ce-b2ca-5f13f8d90196">
+ <li>Select the data types you want to clear (e.g., Cached images and files, Cookies and other site data, Browsing history).</li>
+<img src="https://github.com/user-attachments/assets/416db57e-b363-4afa-afd3-dec419836e21">
+            <li>Click on <strong>Clear now</strong>.</li>
+<img src="https://github.com/user-attachments/assets/18e8c294-c1fa-4e95-8ecd-99678fe5c389">
+        </ol>
+    </li>
+</ul>
+
+<ul>
+    <li><strong>Clear SSL State:</strong> To clear the SSL state in Windows:
+        <ol>
+            <li>Open the <strong>Control Panel</strong> by searching for it in the Start menu.</li>
+   <img src="https://github.com/user-attachments/assets/cb1b771d-9b8f-4538-8ad6-9dcef322fd50">
+            <li>Click on <strong>Network and Internet</strong>, then select <strong>Internet Options</strong>.</li>
+<img src="https://github.com/user-attachments/assets/42377da3-7f47-48e2-8aa6-25da8e6f8ba5"><img src="https://github.com/user-attachments/assets/fb526323-99a6-420d-b19b-6b2a9e6ee62b">
+    <li>In the Internet Properties window, go to the <strong>Content</strong> tab.</li>
+<img src="https://github.com/user-attachments/assets/956d1a60-1b91-4d5c-81f1-bc0c3b57e5be">
+<li>Click on the <strong>Clear SSL state</strong> button.</li>
+<img src="https://github.com/user-attachments/assets/3daa7c32-bb5e-4a92-8636-989f8078856c">
+        </ol>
+    </li>
+</ul>
+
+<ul>
+    <li><strong>Disable Unused Extensions:</strong> Remove or disable browser extensions that you do not use frequently to improve performance.
+        <ol>
+            <li>Click on the three dots in the upper right corner of Microsoft Edge.</li> 
+<li>Select <strong>Extensions</strong>.</li>
+<img src="https://github.com/user-attachments/assets/71920b03-a200-4365-b991-6be9ac8dfda4">
+            <li>Review your installed extensions and click on <strong>Remove</strong> or toggle off any that you do not use.</li>
+<img src="https://github.com/user-attachments/assets/b9ec8d0c-7e75-47dd-9bc9-3ffd4e20fa42">
+        </ol>
+    </li>
+</ul>
+
+
+145151
+
+
+
+
+
+
+
+<h3>Cache Management in DuckDuckGo</h3>
+<p>When you browse the internet, your browser stores various types of data to improve your browsing experience. This data can include cached images, cookies, and browsing history. While this can speed up loading times and help websites remember your preferences, it can also raise privacy concerns. DuckDuckGo offers features to help you manage this data effectively.</p>
+
+<h4>Clear Tabs</h4>
+<p>The "Clear Tabs" feature in DuckDuckGo allows you to quickly close all open tabs in your browser. This is particularly useful for maintaining privacy and decluttering your browsing session. When you clear your tabs:</p>
+<ul>
+    <li><strong>Privacy Enhancement:</strong> Closing all tabs ensures that no one else can see your browsing activity if they access your device.</li>
+    <li><strong>Resource Management:</strong> Having too many tabs open can consume system resources, leading to slower performance.</li>
+    <li><strong>Focus:</strong> By clearing tabs, you can reduce distractions and focus on the tasks at hand.</li>
+</ul>
+
+<h4>Clear Data</h4>
+<p>The "Clear Data" feature is a more comprehensive tool that allows you to delete various types of stored data from your browser. This can include:</p>
+<ul>
+    <li><strong>Cached Images and Files:</strong> These are stored copies of web pages and images that help load sites faster on subsequent visits.</li>
+    <li><strong>Cookies:</strong> Small files that websites use to remember your preferences and login information.</li>
+    <li><strong>Browsing History:</strong> A record of the websites you have visited.</li>
+    <li><strong>Site Data:</strong> Additional data stored by websites, such as local storage or session storage.</li>
+</ul>
+
+<h4>Benefits of Clearing Data</h4>
+<ul>
+    <li><strong>Enhanced Privacy:</strong> Regularly clearing your data helps protect your personal information and browsing habits.</li>
+    <li><strong>Improved Performance:</strong> Cached data can accumulate and slow down your browser.</li>
+    <li><strong>Troubleshooting:</strong> Clearing cached data and cookies can often resolve issues related to outdated or corrupted files.</li>
+</ul>
+
+<h4>How to Use These Features</h4>
+<p>To use the "Clear Tabs" and "Clear Data" features in DuckDuckGo:</p>
+<ol>
+    <li><strong>Open DuckDuckGo:</strong> Launch the DuckDuckGo browser or app.</li>
+    <li><strong>Access Settings:</strong> Navigate to the top of the page, usually represented by a fire logo  or similar.</li>
+    <li><strong>Select Clear Tabs or Clear Data:</strong> Choose the appropriate option based on your needs.</li>
+    <li><strong>Confirm Action:</strong> Follow any prompts to confirm that you want to clear your tabs or data.</li>
+<img src="https://github.com/user-attachments/assets/2e7b8e6c-6fdf-4d27-8e62-afa001229e68">
+</ol>
+
+
+
+
+
 <h2>Conclusion</h2>
 <p>In this project, we successfully implemented various techniques to optimise the performance of a Windows PC. By cleaning up the system, disabling unnecessary services, and managing resources effectively, we achieved significant improvements in speed and efficiency.</p>
 
