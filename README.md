@@ -629,6 +629,6 @@ You can choose between AI mode for automated scanning and manual scanning mode f
 <p>I plan to explore more advanced optimisation techniques and stay updated on new tools that can further enhance system performance. I will document any new findings and share them with the community.</p>
 
 <h2>Get in Touch</h2>
-<p>If you have any questions about this project or would like to collaborate on future endeavours, feel free to reach out to me at <a href="mailto:DenisKTechnology@protonmail.com">DenisKTechnology@protonmail.com</a>.</p>
+<p>If you have any questions about this project or would like to collaborate on future endeavours, feel free to reach out to me at <a 
     <a href="mailto:DenisKTechnology@protonmail.com">DenisKTechnology@protonmail.com</a>
 </p>
