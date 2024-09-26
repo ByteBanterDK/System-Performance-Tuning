@@ -21,14 +21,29 @@
     <li><strong>Hardware Upgrades:</strong> Considering hardware upgrades such as adding more RAM, upgrading the CPU, GPU, or SSD to improve system performance.</li>
 </ul>
 
+<h2>Additional Techniques</h2>
+<ul>
+  <li><strong>OCCT (OverClock Checking Tool)</strong>: A powerful monitoring tool that provides detailed information about your system's performance and stability. It allows you to run stress tests on your CPU, GPU, and power supply, and provides a certification report indicating system stability.</li>
+    <li><strong>Browser Optimisation</strong>: Clear cached data and manage extensions to enhance browser performance and privacy.</li>
+    <li><strong>Adjusting Virtual Memory Settings</strong>: Modifying the paging file size can optimise virtual memory usage, which is especially beneficial for systems with limited RAM.</li>
+    <li><strong>Uninstalling Unused Programs</strong>: Removing programs that you no longer use can free up valuable disk space and system resources.</li>
+    <li><strong>Windows Memory Diagnostic</strong>: Use this tool to check for memory-related issues that could affect system performance.</li>
+    <li><strong>System Restore Point Management</strong>: Manage system restore points to free up disk space and ensure efficient system operation.</li>
+    <li><strong>Advanced SystemCare</strong>: A comprehensive system optimisation tool that offers features like junk file cleanup, registry repair, and privacy protection.</li>
+</ul>
+
 <h2>Languages and Utilities Used</h2>
-<p><strong>Languages:</strong> Bash, Command Prompt (CMD)</p>
-<p><strong>Utilities:</strong> Disk Clean-Up, Task Manager, Sysinternals Suite, Resource Monitor, CCleaner, Malwarebytes</p>
+<ul>
+    <li><strong>Languages</strong>: Bash, Command Prompt (CMD), PowerShell, Python, JavaScript</li>
+    <li><strong>Utilities</strong>: Disk Clean-Up, Task Manager, Sysinternals Suite, Resource Monitor, CCleaner, Malwarebytes, OCCT, Advanced SystemCare</li>
+</ul>
 
 <h2>Environments Used</h2>
-<p><strong>Operating Systems:</strong> Windows 10 Pro</p>
-<p><strong>Virtual Machines:</strong> N/A</p>
-<p><strong>Tools:</strong> CMD, PowerShell, Sysinternals Suite</p>
+<ul>
+    <li><strong>Operating Systems</strong>: Windows 10 Pro, Windows 11</li>
+    <li><strong>Virtual Machines</strong>: VMware, VirtualBox</li>
+    <li><strong>Tools</strong>: CMD, PowerShell, Sysinternals Suite, OCCT</li>
+</ul>
 
 <h2>Program Walk-through</h2>
 <p align="center">
@@ -539,19 +554,16 @@ You can choose between AI mode for automated scanning and manual scanning mode f
 <img src="https://github.com/user-attachments/assets/2e7b8e6c-6fdf-4d27-8e62-afa001229e68">
 </ol>
 
-
-<h2>Conclusion</h2>
-<p>In this project, we successfully implemented various techniques to optimise the performance of a Windows PC. By cleaning up the system, disabling unnecessary services, and managing resources effectively, we achieved significant improvements in speed and efficiency.</p>
+h2>Conclusion</h2>
+<p>This project successfully implemented various techniques to optimise Windows PC performance. By cleaning the system, disabling unnecessary services, and effectively managing resources, we achieved significant improvements in speed and efficiency.</p>
 
 <h2>Lessons Learned</h2>
-<p>Throughout this project, I learned the importance of regular maintenance and the impact of system settings on performance. Additionally, I gained hands-on experience with various tools that can enhance system efficiency.</p>
+<p>I learned the importance of regular maintenance and the impact of system settings on performance. Additionally, I gained hands-on experience with various tools that can enhance system efficiency.</p>
 
 <h2>Future Work</h2>
-<p>Moving forward, I plan to explore more advanced optimisation techniques and keep abreast of new tools that can further enhance system performance. I will also document any new findings and share them with the community.</p>
+<p>I plan to explore more advanced optimisation techniques and stay updated on new tools that can further enhance system performance. I will document any new findings and share them with the community.</p>
 
 <h2>Get in Touch</h2>
-<p>If you have any questions about this project or would like to collaborate on future endeavours, feel free to reach out to me at!</p>
-<p>
-    <img align="left" alt="ByteBanterDK | Gmail" width="22px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-1.webcatalog.io%2Fcatalog%2Fprotonmail%2Fprotonmail-icon.png&f=1&nofb=1&ipt=6df4d08d62fc42ad07c8ae70905a4a6c79ce00471af3644e6281517111e85d03&ipo=images"/> 
+<p>If you have any questions about this project or would like to collaborate on future endeavours, feel free to reach out to me at <a href="mailto:DenisKTechnology@protonmail.com">DenisKTechnology@protonmail.com</a>.</p>
     <a href="mailto:DenisKTechnology@protonmail.com">DenisKTechnology@protonmail.com</a>
 </p>
