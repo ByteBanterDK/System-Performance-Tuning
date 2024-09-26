@@ -427,8 +427,8 @@
 
 <ul>
     <li><strong>Disable Unused Extensions:</strong> Remove or disable browser extensions that you do not use frequently to improve performance.
-        <ol>
-            <li>Click on the three dots in the upper right corner of Microsoft Edge.</li> 
+
+  <li>Click on the three dots in the upper right corner of Microsoft Edge.</li> 
             <li>Select <strong>Extensions</strong>.</li>
             <div>
                 <img src="https://github.com/user-attachments/assets/71920b03-a200-4365-b991-6be9ac8dfda4" alt="Extensions">
@@ -437,7 +437,6 @@
             <div>
                 <img src="https://github.com/user-attachments/assets/b9ec8d0c-7e75-47dd-9bc9-3ffd4e20fa42" alt="Remove Extensions">
             </div>
-        </ol>
     </li>
 </ul>
 
