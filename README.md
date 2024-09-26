@@ -287,17 +287,23 @@
 </ul>
 <img src="https://i.imgur.com/MouQucS.png">
 
-<h2>Additional Performance Optimization Techniques</h2>
+<h2>Additional Performance Optimisation Techniques</h2>
 
 <h3>Uninstall Unused Programs</h3>
 <p>Removing programs that you no longer use can free up valuable disk space and system resources.</p>
 <ul>
-    <li><strong>How to Uninstall:</strong> Go to Control Panel 
-<img src="https://github.com/user-attachments/assets/cb1b771d-9b8f-4538-8ad6-9dcef322fd50">
-Click on "Programs"
-       <img src="https://github.com/user-attachments/assets/d7496b89-b58a-4c17-b18b-b89a91207aa6">
-Programs and Features, select the program you want to uninstall, and click "Uninstall."</li>
-<img src="https://github.com/user-attachments/assets/cf340025-8478-4671-94e5-d476a65ced2d">
+    <li><strong>How to Uninstall:</strong> Go to Control Panel</li>
+    <div>
+        <img src="https://github.com/user-attachments/assets/cb1b771d-9b8f-4538-8ad6-9dcef322fd50" alt="Control Panel">
+    </div>
+    <li>Click on "Programs"</li>
+    <div>
+        <img src="https://github.com/user-attachments/assets/d7496b89-b58a-4c17-b18b-b89a91207aa6" alt="Programs">
+    </div>
+    <li>Programs and Features, select the program you want to uninstall, and click "Uninstall."</li>
+    <div>
+        <img src="https://github.com/user-attachments/assets/cf340025-8478-4671-94e5-d476a65ced2d" alt="Uninstall">
+    </div>
 </ul>
 
 <h3>Adjust Virtual Memory Settings</h3>
@@ -319,17 +325,29 @@ Programs and Features, select the program you want to uninstall, and click "Unin
         </ul>
     </li>
     <li><strong>How to Adjust:</strong> Go to Control Panel.
-        <img src="https://github.com/user-attachments/assets/cb1b771d-9b8f-4538-8ad6-9dcef322fd50" alt="Control Panel">
+        <div>
+            <img src="https://github.com/user-attachments/assets/cb1b771d-9b8f-4538-8ad6-9dcef322fd50" alt="Control Panel">
+        </div>
         Then click on System, and select Advanced system settings.
-        <img src="https://github.com/user-attachments/assets/004af6c3-4047-45b8-b3d5-ac81fcb5d725" alt="System Settings">
-        <img src="https://github.com/user-attachments/assets/f714296e-5986-4cf8-b983-cacb275c24ef" alt="Advanced System Settings">
+        <div>
+            <img src="https://github.com/user-attachments/assets/004af6c3-4047-45b8-b3d5-ac81fcb5d725" alt="System Settings">
+        </div>
+        <div>
+            <img src="https://github.com/user-attachments/assets/f714296e-5986-4cf8-b983-cacb275c24ef" alt="Advanced System Settings">
+        </div>
         Under Performance Settings, go to the Advanced tab.
-        <img src="https://github.com/user-attachments/assets/224a1054-b56b-4625-a5fc-5c27693eeb90" alt="Performance Settings">
-        <img src="https://github.com/user-attachments/assets/f6d94fd7-3ea3-4b99-be5c-12f1e6f330ee">
+        <div>
+            <img src="https://github.com/user-attachments/assets/224a1054-b56b-4625-a5fc-5c27693eeb90" alt="Performance Settings">
+        </div>
+        <div>
+            <img src="https://github.com/user-attachments/assets/f6d94fd7-3ea3-4b99-be5c-12f1e6f330ee" alt="Virtual Memory">
+        </div>
         Click on Virtual memory. Uncheck "Automatically manage paging file size for all drives," select your drive, and set a custom size.
     </li>
 </ul>
-<img src="https://github.com/user-attachments/assets/99b31012-4029-4160-baf3-e92fe829c1c8">
+<div>
+    <img src="https://github.com/user-attachments/assets/99b31012-4029-4160-baf3-e92fe829c1c8" alt="Virtual Memory Settings">
+</div>
 
 <h3>Browser Optimisation</h3>
 <p>Optimising your web browser can improve performance and reduce resource usage. Here are some tips specifically for Microsoft Edge:</p>
@@ -357,16 +375,26 @@ Programs and Features, select the program you want to uninstall, and click "Unin
     <li><strong>How to Clear Browsing Data in Microsoft Edge:</strong>
         <ol>
             <li>Open Microsoft Edge and click on the three dots in the upper right corner.</li>
-<li>Select <strong>Settings</strong>.</li>
-<img src="https://github.com/user-attachments/assets/9182f22b-1aad-4c4d-8b0d-a122f22ba060">
+            <li>Select <strong>Settings</strong>.</li>
+            <div>
+                <img src="https://github.com/user-attachments/assets/9182f22b-1aad-4c4d-8b0d-a122f22ba060" alt="Settings">
+            </div>
             <li>In the left sidebar, click on <strong>Privacy, search, and services</strong>.</li>
-<img src="https://github.com/user-attachments/assets/825a1a24-8734-466d-be62-c5ca8fbaf0f1">
- <li>Scroll down to the <strong>Clear browsing data</strong> section and click on <strong>Choose what to clear</strong>.</li>
-<img src="https://github.com/user-attachments/assets/2f6b5824-632d-49ce-b2ca-5f13f8d90196">
- <li>Select the data types you want to clear (e.g., Cached images and files, Cookies and other site data, Browsing history).</li>
-<img src="https://github.com/user-attachments/assets/416db57e-b363-4afa-afd3-dec419836e21">
+            <div>
+                <img src="https://github.com/user-attachments/assets/825a1a24-8734-466d-be62-c5ca8fbaf0f1" alt="Privacy Settings">
+            </div>
+            <li>Scroll down to the <strong>Clear browsing data</strong> section and click on <strong>Choose what to clear</strong>.</li>
+            <div>
+                <img src="https://github.com/user-attachments/assets/2f6b5824-632d-49ce-b2ca-5f13f8d90196" alt="Clear Browsing Data">
+            </div>
+            <li>Select the data types you want to clear (e.g., Cached images and files, Cookies and other site data, Browsing history).</li>
+            <div>
+                <img src="https://github.com/user-attachments/assets/416db57e-b363-4afa-afd3-dec419836e21" alt="Data Types">
+            </div>
             <li>Click on <strong>Clear now</strong>.</li>
-<img src="https://github.com/user-attachments/assets/18e8c294-c1fa-4e95-8ecd-99678fe5c389">
+            <div>
+                <img src="https://github.com/user-attachments/assets/18e8c294-c1fa-4e95-8ecd-99678fe5c389" alt="Clear Now">
+            </div>
         </ol>
     </li>
 </ul>
@@ -375,13 +403,24 @@ Programs and Features, select the program you want to uninstall, and click "Unin
     <li><strong>Clear SSL State:</strong> To clear the SSL state in Windows:
         <ol>
             <li>Open the <strong>Control Panel</strong> by searching for it in the Start menu.</li>
-   <img src="https://github.com/user-attachments/assets/cb1b771d-9b8f-4538-8ad6-9dcef322fd50">
+            <div>
+                <img src="https://github.com/user-attachments/assets/cb1b771d-9b8f-4538-8ad6-9dcef322fd50" alt="Control Panel">
+            </div>
             <li>Click on <strong>Network and Internet</strong>, then select <strong>Internet Options</strong>.</li>
-<img src="https://github.com/user-attachments/assets/42377da3-7f47-48e2-8aa6-25da8e6f8ba5"><img src="https://github.com/user-attachments/assets/fb526323-99a6-420d-b19b-6b2a9e6ee62b">
-    <li>In the Internet Properties window, go to the <strong>Content</strong> tab.</li>
-<img src="https://github.com/user-attachments/assets/956d1a60-1b91-4d5c-81f1-bc0c3b57e5be">
-<li>Click on the <strong>Clear SSL state</strong> button.</li>
-<img src="https://github.com/user-attachments/assets/3daa7c32-bb5e-4a92-8636-989f8078856c">
+            <div>
+                <img src="https://github.com/user-attachments/assets/42377da3-7f47-48e2-8aa6-25da8e6f8ba5" alt="Network and Internet">
+            </div>
+            <div>
+                <img src="https://github.com/user-attachments/assets/fb526323-99a6-420d-b19b-6b2a9e6ee62b" alt="Internet Options">
+            </div>
+            <li>In the Internet Properties window, go to the <strong>Content</strong> tab.</li>
+            <div>
+                <img src="https://github.com/user-attachments/assets/956d1a60-1b91-4d5c-81f1-bc0c3b57e5be" alt="Content Tab">
+            </div>
+            <li>Click on the <strong>Clear SSL state</strong> button.</li>
+            <div>
+                <img src="https://github.com/user-attachments/assets/3daa7c32-bb5e-4a92-8636-989f8078856c" alt="Clear SSL State">
+            </div>
         </ol>
     </li>
 </ul>
@@ -390,14 +429,17 @@ Programs and Features, select the program you want to uninstall, and click "Unin
     <li><strong>Disable Unused Extensions:</strong> Remove or disable browser extensions that you do not use frequently to improve performance.
         <ol>
             <li>Click on the three dots in the upper right corner of Microsoft Edge.</li> 
-<li>Select <strong>Extensions</strong>.</li>
-<img src="https://github.com/user-attachments/assets/71920b03-a200-4365-b991-6be9ac8dfda4">
+            <li>Select <strong>Extensions</strong>.</li>
+            <div>
+                <img src="https://github.com/user-attachments/assets/71920b03-a200-4365-b991-6be9ac8dfda4" alt="Extensions">
+            </div>
             <li>Review your installed extensions and click on <strong>Remove</strong> or toggle off any that you do not use.</li>
-<img src="https://github.com/user-attachments/assets/b9ec8d0c-7e75-47dd-9bc9-3ffd4e20fa42">
+            <div>
+                <img src="https://github.com/user-attachments/assets/b9ec8d0c-7e75-47dd-9bc9-3ffd4e20fa42" alt="Remove Extensions">
+            </div>
         </ol>
     </li>
 </ul>
-
 
 <h3>Check for Malware</h3>
 <p>Regularly scanning for malware is crucial for maintaining system performance and security.</p>
@@ -410,7 +452,9 @@ Programs and Features, select the program you want to uninstall, and click "Unin
         <a href="https://github.com/ByteBanterDK/WinFullScan">Windows Security Scan</a>.
     </li>
 </ul>
-<img src="https://camo.githubusercontent.com/a7dcc2b008808918904e4824370571828c82683ef79f7c2af72bf71ba4376c52/68747470733a2f2f692e696d6775722e636f6d2f52424148666a512e706e67">
+<div>
+    <img src="https://camo.githubusercontent.com/a7dcc2b008808918904e4824370571828c82683ef79f7c2af72bf71ba4376c52/68747470733a2f2f692e696d6775722e636f6d2f52424148666a512e706e67" alt="Windows Security Scan">
+</div>
 
 <ul>
     <li>
@@ -419,14 +463,18 @@ Programs and Features, select the program you want to uninstall, and click "Unin
         For more information, visit my GitHub repository on <a href="https://github.com/ByteBanterDK/SecureScanM">MRT</a>.
     </li>
 </ul>
-<img src="https://github.com/user-attachments/assets/c5befb1a-6d86-4c16-a211-35545cfbd4f4">
+<div>
+    <img src="https://github.com/user-attachments/assets/c5befb1a-6d86-4c16-a211-35545cfbd4f4" alt="Malicious Software Removal Tool">
+</div>
 <ul>
     <li>
         <strong>Malwarebytes:</strong> 
         Install and run Malwarebytes to perform a thorough scan for malware and other threats.
     </li>
 </ul>
-<img src="https://i.imgur.com/MouQucS.png">
+<div>
+    <img src="https://i.imgur.com/MouQucS.png" alt="Malwarebytes">
+</div>
 
 <ul>
     <li>
@@ -434,20 +482,27 @@ Programs and Features, select the program you want to uninstall, and click "Unin
         Consider using tools like AdwCleaner to remove adware and potentially unwanted programmes (PUPs).
     </li>
 </ul>
-<img src=https://github.com/user-attachments/assets/9a66c1f0-e69d-4deb-bdd0-e2e0c90bdc0e">
-
+<div>
+    <img src="https://github.com/user-attachments/assets/9a66c1f0-e69d-4deb-bdd0-e2e0c90bdc0e" alt="AdwCleaner">
+</div>
 
 <h3>Windows Memory Diagnostic</h3>
 <p>The Windows Memory Diagnostic tool helps identify memory-related issues that could affect system performance.</p>
 <ul>
     <li><strong>How to Use:</strong> Search for "Windows Memory Diagnostic" 
-<img src="https://github.com/user-attachments/assets/25fdd7c2-cba9-4d67-a366-fdfae75e320f">
-in the Start menu, select "Restart now and check for problems," and follow the prompts to check your system's RAM for errors.</li>
-<img src="https://github.com/user-attachments/assets/95ff836c-dc96-488a-8d08-79fac121bd34">
+    <div>
+        <img src="https://github.com/user-attachments/assets/25fdd7c2-cba9-4d67-a366-fdfae75e320f" alt="Windows Memory Diagnostic">
+    </div>
+    in the Start menu, select "Restart now and check for problems," and follow the prompts to check your system's RAM for errors.</li>
+    <div>
+        <img src="https://github.com/user-attachments/assets/95ff836c-dc96-488a-8d08-79fac121bd34" alt="Memory Diagnostic Results">
+    </div>
     
 <p>When you restart your computer, the Windows Memory Diagnostic tool will run a series of tests on your system's RAM. It will check for any errors or issues that could be causing performance problems. The results will be displayed after the tests are complete, allowing you to take appropriate action if any issues are found.</p>
 
-<img src="">
+<div>
+    <img src="" alt="Memory Diagnostic">
+</div>
 
 <h3>System Restore Point Management</h3>
 <p>Managing system restore points can help free up disk space and ensure that your system is running efficiently.</p>
@@ -456,13 +511,24 @@ in the Start menu, select "Restart now and check for problems," and follow the p
     <li>
         <strong>How to Manage:</strong> 
         Go to Control Panel, then System.
-<img src="https://github.com/user-attachments/assets/9c06adc2-eca7-41c4-a00c-319d2f28fa69"><img src="https://github.com/user-attachments/assets/579948c5-0a56-44d7-8894-250371fa44b9">
-select System Protection. Here, you can create, delete, or configure restore points.
-<img src="https://github.com/user-attachments/assets/4e5166a6-0065-454d-b40b-f2e73db97d24"><img src="https://github.com/user-attachments/assets/3aba71ef-134d-4dc3-80df-ca583f872c1d">
+        <div>
+            <img src="https://github.com/user-attachments/assets/9c06adc2-eca7-41c4-a00c-319d2f28fa69" alt="System">
+        </div>
+        <div>
+            <img src="https://github.com/user-attachments/assets/579948c5-0a56-44d7-8894-250371fa44b9" alt="System Protection">
+        </div>
+        select System Protection. Here, you can create, delete, or configure restore points.
+        <div>
+            <img src="https://github.com/user-attachments/assets/4e5166a6-0065-454d-b40b-f2e73db97d24" alt="Create Restore Point">
+        </div>
+        <div>
+            <img src="https://github.com/user-attachments/assets/3aba71ef-134d-4dc3-80df-ca583f872c1d" alt="Configure Restore Points">
+        </div>
     </li>
 </ul>
 
 <p>By managing your system restore points, you can remove older restore points that are no longer needed, which can help free up valuable disk space. Additionally, regularly creating restore points before making significant changes to your system can provide a safety net, allowing you to revert to a previous state if something goes wrong.</p>
+
 
 
 <h3>Advanced SystemCare</h3>
@@ -554,7 +620,7 @@ You can choose between AI mode for automated scanning and manual scanning mode f
 <img src="https://github.com/user-attachments/assets/2e7b8e6c-6fdf-4d27-8e62-afa001229e68">
 </ol>
 
-h2>Conclusion</h2>
+<h2>Conclusion</h2>
 <p>This project successfully implemented various techniques to optimise Windows PC performance. By cleaning the system, disabling unnecessary services, and effectively managing resources, we achieved significant improvements in speed and efficiency.</p>
 
 <h2>Lessons Learned</h2>
