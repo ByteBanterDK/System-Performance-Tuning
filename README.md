@@ -72,8 +72,7 @@
 <img src="https://i.imgur.com/eQJzIGG.png">
 
 <p>Now proceed to download this application by Microsoft, Sysinternals Suite:</p>
-<img src="https://i.imgur.com/cm7v6vx.png"> 
-<img src="https://i.imgur.com/eT0DuiX.png">
+<img src="https://github.com/user-attachments/assets/a99a6ade-9e06-4790-b37c-e3f671ea498b"> 
 
 <p>Click on the folder when the download is completed, then search RAMMAP, pick RAMMap64.exe:</p>
 <img src="https://i.imgur.com/J19AbjW.png"> 
@@ -88,7 +87,7 @@
 
 <p>Adjust Appearance: Reducing visual effects and animations can enhance performance, making Windows run faster and more efficiently.</p>
 <img src="https://i.imgur.com/w7q5Yyz.png"> 
-<img src="https://i.imgur.com/SrDL6EF.png">
+<img src="https://github.com/user-attachments/assets/eb16c147-a7d3-4312-a1ac-f1e0e06ce61b">
 
 <p>Search Edit Power Plan:</p>
 <img src="https://i.imgur.com/0jf4vSB.png">
