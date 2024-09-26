@@ -467,13 +467,39 @@ select System Protection. Here, you can create, delete, or configure restore poi
 <img src="https://github.com/user-attachments/assets/fa3e9f4d-88d7-45d6-8c9a-2fd6fcd8f5c8">
 You can choose between AI mode for automated scanning and manual scanning mode for a more hands-on approach.
 <img src="https://github.com/user-attachments/assets/b101528b-bdc8-451c-be59-f4e881a2a626">
+ <strong>Scan Options:</strong> 
+        The scanning process includes various checks such as:
+        <ul>
+            <li>Privacy Sweep</li>
+            <li>Junk File Clean</li>
+            <li>Shortcut Fix</li>
+            <li>Registry Clean</li>
+            <li>System Optimisation</li>
+            <li>Internet Boost</li>
+            <li>Registry Defrag</li>
+            <li>Disk Optimisation</li>
+            <li>Anti-Virus Protection</li>
+            <li>Firewall</li>
+            <li>Hardware Health</li>
+            <li>Software Health</li>
+            <li>Spyware Removal</li>
+            <li>Security Reinforcement</li>
+            <li>Vulnerability Fix</li>
+            <li>Disk Check</li>
+<img src="https://github.com/user-attachments/assets/b21f977a-d617-4335-ac60-65d8becc7137">
+ </ul>
     </li>
     <li>
-    </li>
-</ul>
-
-
-
+        <strong>Auto-Fix Options:</strong> 
+        During the scanning process, you can enable auto-fix options, which will automatically resolve detected issues. You can also untick the box to manually fix issues one by one. The auto-fix options include:
+        <ul>
+            <li>Auto Fix</li>
+            <li>Auto Fix and Shut Down PC</li>
+            <li>Auto Fix and Restart PC</li>
+            <li>Auto Fix and Hibernate PC</li>
+            <li>Auto Fix and Sleep PC</li>
+        </ul>
+<Img src="https://github.com/user-attachments/assets/31766abb-01ca-4d8c-981a-3297f81410a4">
 
 
 <h3>Cache Management in DuckDuckGo</h3>
@@ -512,9 +538,6 @@ You can choose between AI mode for automated scanning and manual scanning mode f
     <li><strong>Confirm Action:</strong> Follow any prompts to confirm that you want to clear your tabs or data.</li>
 <img src="https://github.com/user-attachments/assets/2e7b8e6c-6fdf-4d27-8e62-afa001229e68">
 </ol>
-
-
-
 
 
 <h2>Conclusion</h2>
