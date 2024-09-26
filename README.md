@@ -401,8 +401,8 @@
 
 <ul>
     <li><strong>Clear SSL State:</strong> To clear the SSL state in Windows:
-        <ol>
-            <li>Open the <strong>Control Panel</strong> by searching for it in the Start menu.</li>
+       
+<li>Open the <strong>Control Panel</strong> by searching for it in the Start menu.</li>
             <div>
                 <img src="https://github.com/user-attachments/assets/cb1b771d-9b8f-4538-8ad6-9dcef322fd50" alt="Control Panel">
             </div>
@@ -421,7 +421,7 @@
             <div>
                 <img src="https://github.com/user-attachments/assets/3daa7c32-bb5e-4a92-8636-989f8078856c" alt="Clear SSL State">
             </div>
-        </ol>
+      
     </li>
 </ul>
 
