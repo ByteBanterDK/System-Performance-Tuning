@@ -500,7 +500,7 @@
 <p>When you restart your computer, the Windows Memory Diagnostic tool will run a series of tests on your system's RAM. It will check for any errors or issues that could be causing performance problems. The results will be displayed after the tests are complete, allowing you to take appropriate action if any issues are found.</p>
 
 <div>
-    <img src="" alt="https://github.com/user-attachments/assets/94acf3fb-f365-4482-8601-ed381888429f">
+    <img src="https://github.com/user-attachments/assets/94acf3fb-f365-4482-8601-ed381888429f">
 </div>
 
 <h3>System Restore Point Management</h3>
